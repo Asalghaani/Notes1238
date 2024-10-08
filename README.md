@@ -15,6 +15,7 @@
 * [Stu-view(gbc)](https://https://stuview.georgebrown.ca//)
 * [Brightspace(gbc)](https://learn.georgebrown.ca/d2l/home)
 * [(Outlook)](https://outlook.office.com/mail/)
+* [CLI commands](docs/cli.md)
 ### Experiments
 * :two_hearts:
 * :heart_eyes:
