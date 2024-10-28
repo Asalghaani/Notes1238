@@ -1,38 +1,38 @@
 [
   {
-    "name": "LeBron James"
+    "name": "LeBron James" // string
   },
   {
-    "age": 38
+    "age": 38 // number
   },
   {
-    "position": "Forward"
+    "position": "Forward" // string
   },
   {
-    "sport": "baskeyball"
+    "sport": "baskeyball"  // string
   },
   {
     "team": {
-      "name": "Lakers",
-      "city": "Los Angeles"
+      "name": "Lakers",  // string
+      "city": "Los Angeles"  // string
     }
   },
   {
-    "name": "Lionel Messi"
+    "name": "Lionel Messi" // string
   },
   {
-    "age": 36
+    "age": 36  // number
   },
   {
-    "position": "Forward"
+    "position": "Forward" // string
   },
   {
-    "sport": "Soccer"
+    "sport": "Soccer"  // string
   },
   {
     "team": {
-      "name": "Inter Miami",
-      "city": "Miami"
+      "name": "Inter Miami",  // string
+      "city": "Miami"     // string
     }
   }
 ]
