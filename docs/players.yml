@@ -1,12 +1,12 @@
 ---
-- name: LeBron James
+- name: LeBron James #player1
 - age: 38
 - position: Forward
 - sport: baskeyball
 - team:
     name: Lakers
     city: Los Angeles
-- name: Lionel Messi
+- name: Lionel Messi  #player2
 - age: 36
 - position: Forward
 - sport: Soccer
